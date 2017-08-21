@@ -15,6 +15,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'matcher.apps.MatcherConfig',
     'django.contrib.contenttypes',
 ]
 
