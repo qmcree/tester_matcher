@@ -1,2 +1,4 @@
-Install Docker
-Install Docker Compose
+- Install Docker
+- Install Docker Compose
+- docker-compose up -d
+- docker-compose exec api python manage.py migrate
